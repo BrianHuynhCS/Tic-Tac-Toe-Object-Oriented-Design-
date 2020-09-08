@@ -1,0 +1,2 @@
+# Tic-Tac-Toe-Object-Oriented-Design-
+Our names: Dayo Adesokan, Brian Huynh, and Jinyin Chai  This repository holds the final version of our project for CS151. We were tasked with creating a program that runs a tic tac toe game on a 3 x 3 grid. The game can be played by two people sitting next to each other with player 1 being X's and player 2 being O's. We had a lot of fun taking on the challenge of making this game and it helped us further our understanding of the Model-Viewer-Controller pattern as well as the strategy pattern.
